@@ -1,0 +1,38 @@
+{
+  "Employee": [
+    {
+      "id": 1,
+      "firstName": "Abhishek",
+      "lastName": "Kumar",
+      "contactNumber": 9845781256,
+      "code": "emp-001",
+      "address": "Bihar",
+      "designation": "UI Developer"
+    },
+    {
+      "id": 3,
+      "firstName": "Bharath",
+      "lastName": "Gowda",
+      "contactNumber": 9132451202,
+      "code": "emp-003",
+      "address": "Bangalore",
+      "designation": "Technical Specialist"
+    },
+    {
+      "id": 4,
+      "firstName": "Shubu",
+      "lastName": "Kumar",
+      "designation": "Project Manager",
+      "contact": "7854785478",
+      "address": "Delhi"
+    },
+    {
+      "firstName": "Divya",
+      "lastName": "Gowda",
+      "address": "Mumbai",
+      "contact": "8908503212",
+      "id": 5,
+      "designation": " Talent Acquisition"
+    }
+  ]
+}
